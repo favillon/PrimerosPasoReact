@@ -1,8 +1,15 @@
 // Funtional components
 
+import { Fragment } from "react";
+
 const PrimeraApp = () => {
 
-    return <h1>Hola Mundo</h1>;
+    return (
+        <Fragment>
+            <h1>Hola Mundo</h1>
+            <p>Mi Primera Aplicacion</p>
+        </Fragment>
+    );
 }
 
 export default PrimeraApp;
