@@ -4,9 +4,10 @@ import { Fragment } from "react";
 
 const PrimeraApp = () => {
 
+    const  saludo = 'Hola Mundo desde constante';
     return (
         <Fragment>
-            <h1>Hola Mundo</h1>
+            <h1> { saludo } </h1>
             <p>Mi Primera Aplicacion</p>
         </Fragment>
     );
