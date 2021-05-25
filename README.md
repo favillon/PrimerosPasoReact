@@ -6,3 +6,4 @@
 * Impresion de constantes
 * Utilizacion de props
 * props tipificacion, requeridos valores default
+* Aplicacion CounterApp
