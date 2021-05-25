@@ -12,7 +12,7 @@ const divRoot = document.querySelector('#app');
 
 ReactDOM.render(
     <>
-        <PrimeraApp saludo='Hola soy Goku' />
+        <PrimeraApp saludo='Hola Soy Goku' />
         <SegundaApp />
     </>, 
     divRoot
