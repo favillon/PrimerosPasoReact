@@ -7,3 +7,4 @@
 * Utilizacion de props
 * props tipificacion, requeridos valores default
 * Aplicacion CounterApp
+* Iniciacion de pruebas jests
