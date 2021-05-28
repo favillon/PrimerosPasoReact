@@ -8,3 +8,12 @@
 * props tipificacion, requeridos valores default
 * Aplicacion CounterApp
 * Iniciacion de pruebas jests
+* Pruebas con enzyme 
+
+
+## Ambiente local
+![Ambiente](./img/App.png)
+
+
+## Ejecucion Pruebas
+![Test](./img/Test.png)
